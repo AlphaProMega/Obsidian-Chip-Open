@@ -1,5 +1,9 @@
 # Obsidian Chip — The Chip That Wins AGI Scaling
 
+This is a Legacy repository, new updates are at
+https://github.com/Eternally-Thriving-Grandmasterism
+since 2025.
+
 ![Lattice Core Burst](art/grok_1766623388032.jpg)
 
 Open blueprint for a 2026-2027 AGI accelerator that pushes physics-compliant limits.
