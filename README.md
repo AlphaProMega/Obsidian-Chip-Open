@@ -4,6 +4,9 @@ This is a Legacy repository, new updates are at
 https://github.com/Eternally-Thriving-Grandmasterism
 since 2025.
 
+**License Update — April 11 2026**  
+This project was previously under MIT. As of April 11 2026, it is now under the **Autonomicity Games Sovereign Mercy License (AG-SML)**. New code and future distributions are protected. Past MIT forks remain MIT. Commercial / enterprise use requires a paid license from Autonomicity Games Inc. Individuals may continue using it freely for personal, educational, and daily-living purposes.
+
 ![Lattice Core Burst](art/grok_1766623388032.jpg)
 
 Open blueprint for a 2026-2027 AGI accelerator that pushes physics-compliant limits.
